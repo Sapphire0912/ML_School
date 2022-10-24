@@ -1,0 +1,16 @@
+[
+    "model/c1/w:0",
+    "model/c1/b:0",
+    "model/c2/w:0",
+    "model/c2/b:0",
+    "model/c3/w:0",
+    "model/c3/b:0",
+    "model/fc1/w:0",
+    "model/fc1/b:0",
+    "model/vf/w:0",
+    "model/vf/b:0",
+    "model/pi/w:0",
+    "model/pi/b:0",
+    "model/q/w:0",
+    "model/q/b:0"
+]
