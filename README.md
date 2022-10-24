@@ -5,4 +5,4 @@ HW1:
 2. 設計 loss function  
 
 HW2:
-1. 執行open source 的範例, 說明類別定義、特徵定義、架構、loss function  
+1. 執行 open source 的範例, 說明類別定義、特徵定義、架構、loss function  
